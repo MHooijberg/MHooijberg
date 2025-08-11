@@ -1,19 +1,19 @@
 ## Hi there 👋
-<picture align="center">
+<p align="center">
   <img src="/github-metrics.svg" alt="Metrics" width="80%">
-</picture> 
+</p> 
 
-<picture align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHooijberg&layout=compact" alt="Trophy Metrics" width="40%">
-</picture> 
+</p> 
 
-<picture align="center">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MHooijberg" alt="Trophy Metrics" width="40%">
-</picture> 
+</p> 
 
-<picture align="center">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MHooijberg" alt="Trophy Metrics" width="80%">
-</picture> 
+</p> 
 
 <!--
 **MHooijberg/MHooijberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
