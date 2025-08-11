@@ -12,7 +12,7 @@
 </p> 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MHooijberg" alt="Trophy Metrics" width="80%">
+  <img src="https://github-profile-trophy.vercel.app/?username=MHooijberg&column=-1" alt="Trophy Metrics" width="80%">
 </p> 
 
 <!--
