@@ -4,8 +4,16 @@
 </picture> 
 
 ![Metrics](/github-metrics.svg)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MHooijberg&layout=compact)](https://github.com/MHooijberg)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MHooijberg)
+[![Top Langs]()
+![GitHub Streak]()
+
+<picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHooijberg&layout=compact)](https://github.com/MHooijberg" alt="Trophy Metrics" width="80%">
+</picture> 
+
+<picture>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MHooijberg" alt="Trophy Metrics" width="80%">
+</picture> 
 
 <picture>
   <img src="https://github-profile-trophy.vercel.app/?username=MHooijberg" alt="Trophy Metrics" width="80%">
