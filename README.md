@@ -1,9 +1,10 @@
 ## Hi there 👋
-![Metrics](/github-metrics.svg)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MHooijberg&layout=compact)](https://github.com/MHooijberg)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MHooijberg)
-[![trophy](https://github-profile-trophy.vercel.app/?username=MHooijberg)](https://github.com/MHooijberg)
-
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHooijberg&layout=compact" alt="Language Metrics" width="50%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MHooijberg" alt="Streak Metrics" width="50%">
+  <img src="https://github-profile-trophy.vercel.app/?username=MHooijberg" alt="Achievement Metrics" width="100%">
+</picture>
 <!--
 **MHooijberg/MHooijberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
