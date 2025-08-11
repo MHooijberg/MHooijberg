@@ -2,7 +2,6 @@
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MHooijberg&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MHooijberg&layout=compact)](https://github.com/MHooijberg)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MHooijberg)
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=MHooijberg&theme=react-dark)
 [![trophy](https://github-profile-trophy.vercel.app/?username=MHooijberg)](https://github.com/MHooijberg)
 
 <!--
