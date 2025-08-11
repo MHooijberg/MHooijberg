@@ -3,10 +3,6 @@
   <img src="/github-metrics.svg" alt="Metrics" width="80%">
 </picture> 
 
-![Metrics](/github-metrics.svg)
-[![Top Langs]()
-![GitHub Streak]()
-
 <picture>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHooijberg&layout=compact)](https://github.com/MHooijberg" alt="Trophy Metrics" width="80%">
 </picture> 
