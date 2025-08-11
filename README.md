@@ -4,11 +4,11 @@
 </picture> 
 
 <picture>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHooijberg&layout=compact" alt="Trophy Metrics" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHooijberg&layout=compact" alt="Trophy Metrics" width="45%">
 </picture> 
 
 <picture>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MHooijberg" alt="Trophy Metrics" width="50%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MHooijberg" alt="Trophy Metrics" width="45%">
 </picture> 
 
 <picture>
