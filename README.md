@@ -1,16 +1,11 @@
 ## Hi there 👋
 <p align="center">
   <img src="/github-metrics.svg" alt="Metrics" width="80%">
-</p> 
-
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHooijberg&layout=compact" alt="Trophy Metrics" width="40%">
-</p> 
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MHooijberg" alt="Trophy Metrics" width="40%">
 </p> 
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MHooijberg&column=-1" alt="Trophy Metrics" width="80%">
 </p> 
